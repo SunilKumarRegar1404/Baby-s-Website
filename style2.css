@@ -1,0 +1,24 @@
+h1{
+    color: #ff96ad;
+    font-family: 'Sigmar One', Courier, monospace;
+    font-weight: lighter;
+}
+h2{
+    color: #ff96ad;
+    font-family: 'Sigmar One', Courier, monospace;
+    font-size: xx-large;
+    font-weight: lighter;
+}
+p{
+    color: #fff5fd;
+    font-family: 'Lobster', Courier, monospace;
+
+    font-size: x-large;
+}
+body{
+    background-color: #005a8d;
+}
+a:hover{
+    color: cadetblue;
+    text-decoration-style: wavy;
+}
